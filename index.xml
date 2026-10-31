@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>04 - Manuales</title>
+    <link>https://quartz.jzhao.xyz/04---manuales/</link>
+    <guid>https://quartz.jzhao.xyz/04---manuales/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:55:28 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://quartz.jzhao.xyz/tags/</link>
+    <guid>https://quartz.jzhao.xyz/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:55:28 GMT</pubDate>
+  </item><item>
+    <title>00 - Indice</title>
+    <link>https://quartz.jzhao.xyz/00---indice</link>
+    <guid>https://quartz.jzhao.xyz/00---indice</guid>
+    <description><![CDATA[ 🍫 Brigadeiros Alegria OS - Vault Intermedio Propósito: Este vault no es de recetas. ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>01 - Que queremos hacer</title>
+    <link>https://quartz.jzhao.xyz/01---que-queremos-hacer</link>
+    <guid>https://quartz.jzhao.xyz/01---que-queremos-hacer</guid>
+    <description><![CDATA[ 01 - Qué queremos hacer Visión Brigadeiros Alegria Convertir recetas en un negocio ordenado, con respaldo, historial y capacidad de vender online sin perder el control de costos y marca. ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>02 - Con que lo vamos a hacer</title>
+    <link>https://quartz.jzhao.xyz/02---con-que-lo-vamos-a-hacer</link>
+    <guid>https://quartz.jzhao.xyz/02---con-que-lo-vamos-a-hacer</guid>
+    <description><![CDATA[ 02 - Con qué lo vamos a hacer (Herramientas Adecuadas) Principio maestro: Herramienta adecuada para trabajo adecuado. No usar la de moda. ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>03 - Como lo vamos a hacer</title>
+    <link>https://quartz.jzhao.xyz/03---como-lo-vamos-a-hacer</link>
+    <guid>https://quartz.jzhao.xyz/03---como-lo-vamos-a-hacer</guid>
+    <description><![CDATA[ 03 - Cómo lo vamos a hacer (Flujo Diario) Flujo Actual - Después de la configuración del 31 Oct Abrir Obsidian -&gt; Vault brigadeiros-alegria Escribir en: 02 - Producto y Recetas -&gt; Nueva receta 03 - Finanzas y Costos -&gt; Actualizar costo 05 - Marketing y Redes -&gt; Idea de reel Guardar Ctrl ... ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>04 - Decisiones Tecnicas</title>
+    <link>https://quartz.jzhao.xyz/04---decisiones-tecnicas</link>
+    <guid>https://quartz.jzhao.xyz/04---decisiones-tecnicas</guid>
+    <description><![CDATA[ 04 - Decisiones Técnicas - Por qué elegimos esto Decisión 1: GitHub + Obsidian vs solo Obsidian Decisión: GitHub + Obsidian Por qué: Obsidian solo guarda local. ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>AUDITORIA-ESTADO-ACTUAL-Brigadeiros-Alegria</title>
+    <link>https://quartz.jzhao.xyz/04---manuales/auditoria-estado-actual-brigadeiros-alegria</link>
+    <guid>https://quartz.jzhao.xyz/04---manuales/auditoria-estado-actual-brigadeiros-alegria</guid>
+    <description><![CDATA[ 📋 Auditoría y Documentación - Estado Actual Brigadeiros Alegria Fecha: 31 Octubre 2026 Repo: Jimco62/brigadeiros-alegria Vault Local: C:\Users\jimco\Documents\brigadeiros-alegria Estado Git: ✅ Sincronizado - No local changes - Pushed 5 files to remote Obsidian Git: ✅ Configurado - Auto commit 10 mi... ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>Manual-Brigadeiros-Alegria-Obsidian-Git</title>
+    <link>https://quartz.jzhao.xyz/04---manuales/manual-brigadeiros-alegria-obsidian-git</link>
+    <guid>https://quartz.jzhao.xyz/04---manuales/manual-brigadeiros-alegria-obsidian-git</guid>
+    <description><![CDATA[ Manual: Configurar GitHub para Obsidian - Proyecto Brigadeiros Alegria Autor: Jimmy Gallo Morales (Jimco62) Fecha: Octubre 2026 Vault: C:\Users\jimco\Documents\brigadeiros-alegria Repo: Jimco62/brigadeiros-alegria Objetivo Tener respaldo automático, historial de versiones y sincronización en la nube... ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item><item>
+    <title>05 - Roadmap</title>
+    <link>https://quartz.jzhao.xyz/05---roadmap</link>
+    <guid>https://quartz.jzhao.xyz/05---roadmap</guid>
+    <description><![CDATA[ 05 - Roadmap - De 100 puntos a Tienda Online Fase 1 - Sistema Interno ✅ COMPLETADA 31 Oct 2026 Instalar Git, GitHub Desktop, VS Code Clonar repo Jimco62/brigadeiros-alegria Migrar de Brigadeiros Alegria (espacio) a brigadeiros-alegria (guión) Crear .gitignore (workspace.json, trash) Primer commit ba... ]]></description>
+    <pubDate>Sat, 31 Oct 2026 18:29:55 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
